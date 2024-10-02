@@ -11,10 +11,3 @@
 ![Skills](https://skillicons.dev/icons?i=cs,java,js,html,css,mysql,mongodb,react,nextjs,express,nodejs,git,github,visualstudio,vscode)
 
 <h2>Let's Connect</h2>
-<a href="https://www.linkedin.com/in/maisonflynn" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
-</a>
-
-<a href="mailto:maisonflynn@mail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/>
-</a>
