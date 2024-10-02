@@ -1,1 +1,1 @@
-![Hello, World!](https://tenor.com/view/poliwhirl-pokemon-pokemon-poliwhirl-gif-6868206904860353543)
+![Hello, World!](https://tenor.com/ilwCIhY3g5z.gif)
