@@ -4,4 +4,4 @@
   <p>👋🏻 Hello, World!<p>
 </div>
 
-[![Skills](https://skillicons.dev/icons?i=cs,java,js,html,css,mysql,mongodb,react,nextjs,express,nodejs,git,github,visualstudio,vscode)]
+![Skills](https://skillicons.dev/icons?i=cs,java,js,html,css,mysql,mongodb,react,nextjs,express,nodejs,git,github,visualstudio,vscode)
