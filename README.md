@@ -1,11 +1,16 @@
-Computer Programming and Analysis student with 1.5+ years of experience in software development.
+- [ ] [DeskPi RackMate T1](https://www.amazon.ca/dp/B0CSCWVTQ7/?coliid=IL3G1SW9UMI74&colid=KS0YOOEKDDNQ)
+- [ ] [GeeekPi 12-Port CAT6 Network Patch Panel](https://www.amazon.ca/dp/B0D5XPNHHF/?coliid=I3NA4XPHDSXP00&colid=KS0YOOEKDDNQ)
+- [ ] [Monoprice SlimRun Cat6A Ethernet Network Patch Cable 10G 6-inch](https://www.amazon.ca/dp/B07958H2ZB)
+- [ ] [TP-Link TL-SG105-M2](https://www.amazon.ca/dp/B08ZHGT2ZP/ref=twister_B0FY7QHC32?_encoding=UTF8)
+- [ ] [1U Shelf for TP Link Switch for 10" Rack](https://makerworld.com/en/models/1304250-1u-shelf-for-tp-link-switch-for-10-rack#profileId-1337139)
+- [ ] [Beelink EQ14 Intel® Twin Lake N150](https://www.bee-link.com/products/beelink-eq14-n150)
+- [ ] [JetKVM](https://jetkvm.com/products/jetkvm)
+- [ ] [Beelink EQ14 and JetKVM - 10in Mini Rack 1U Mount](https://www.etsy.com/ca/listing/4449034794/beelink-eq14-and-jetkvm-10in-mini-rack?ls=s&ga_order=highest_reviews&ga_search_type=all&ga_view_type=gallery&ga_search_query=jetkvm+10+rack+mount&ref=sr_gallery-1-7&sts=1&content_source=7068727c-f22f-43e3-ae21-a12660fcce82%253ALTf678ebac1dbd6af66aa9e600c6d009dee842ad69&organic_search_click=1&logging_key=7068727c-f22f-43e3-ae21-a12660fcce82%3ALTf678ebac1dbd6af66aa9e600c6d009dee842ad69)
+- [ ] [TERRAMASTER D4-320](https://www.amazon.ca/dp/B0CTTL9R7Z/?coliid=I1M8X3MBKSP4RJ&colid=KS0YOOEKDDNQ)
+- [ ] [10 Inch Rack Mount for Terramaster D4-320 DAS](https://makerworld.com/en/models/1645107-10-inch-rack-mount-for-terramaster-d4-320-das#profileId-1738722)
+- [ ] [CyberPower CP1500PFCLCD](https://www.amazon.ca/dp/B00429N19W/?coliid=I1D7R95Y0HHCY9&colid=KS0YOOEKDDNQ)
 
-• Advanced in JavaScript ES6+/TypeScript, C# and Java object-oriented programming
-
-• Developed frontend and backend applications with React, Node.js, Express.js and Flutter
-
-• Managed SQL/NoSQL databases (i.e., MySQL, SQL Server and MongoDB) 
-
-• Deployed containerized applications using Docker and Kubernetes
-
-• Experienced with CI/CD pipelines (e.g., Azure DevOps)
+- [ ] [GeeekPi 30PCS #10-32 x 5/16" Pan Head Screws with Washers](https://www.amazon.ca/dp/B0DS24RZQ3/?coliid=I3JU1FGBH1NW7S&colid=KS0YOOEKDDNQ)
+- [ ] [Lexar D40E 128GB Dual USB 3.2 Gen 1 Type-C Jump Drive](https://www.amazon.ca/dp/B0DH1MKVQV/?coliid=I2Z0UKW7WJXZUH&colid=KS0YOOEKDDNQ)
+- [ ] [10Pcs Silver Tone Black Lanyard Strap](https://www.amazon.ca/dp/B0F7X3XSHP/?coliid=I36FMO6R6S8YQZ&colid=KS0YOOEKDDNQ&psc=1)
+- [ ] [Trilancer Reusable Cable Straps Wire Ties](https://www.amazon.ca/dp/B07JHJ354Z)
